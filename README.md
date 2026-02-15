@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Hey, I'm Daksha 👋
 
@@ -89,4 +89,3 @@ I work on the **Integrated Data Stores (IDS)** platform at Expedia — the singl
 [![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-34d399?style=for-the-badge&logoColor=black)](https://portfolio-daksha.vercel.app)
 
 </div>
-]]>
